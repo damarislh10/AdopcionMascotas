@@ -1,0 +1,184 @@
+{
+    "gatos": [
+        {
+            "id": "1",
+            "nombre": "Matilde",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "imagen": "https://i.ibb.co/4g8GDH8/gato1.jpg",
+            "categoria": "gato",
+            "raza": "British Shorthair",
+            "edad": "6 meses",
+            "direccion": "4140 Parker Rd. Allentown,New Mexico 31134",
+            "personalidad": [
+                "Juguetona",
+                "Inquieta",
+                "Tierna"
+            ],
+            "historia": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+            "usuario": "Juan Jesus",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": "2",
+            "nombre": "Pelusa",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "imagen": "https://i.ibb.co/HB5nHCb/gato3.jpg",
+            "categoria": "gato",
+            "raza": "Birmano",
+            "edad": "11 meses",
+            "direccion": "Calle 53-12c - 113 - Bogota - Colombia",
+            "personalidad": [
+                "Curioso",
+                "Cariñoso",
+                "Paciente"
+            ],
+            "historia": "Pelusa es un gato muy muy curioso, le encanta los días lluviosos y suele ser muy paciente con los niños, es un gato muy hogareño, le encanta dormir y no suele hacer daños en el hogar. La razón por la cual tenemos que dejar ir a pelusa es porque me salió una propuesta de trabajo en el exterior y tengo que viajar en poco tiempo, así que estoy buscando una persona que lo sepa cuidar y que le dé todo lo que necesite.",
+            "usuario": "Enrique López",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": "3",
+            "nombre": "Kity",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "imagen": "https://i.ibb.co/rKBf4Z4/gato2.jpg",
+            "categoria": "gato",
+            "raza": "Bombay",
+            "edad": "9 meses",
+            "direccion": "Calle 12-15aa - 103 - Bogota - Colombia",
+            "personalidad": [
+                "Juguetona",
+                "Inquieta",
+                "Tierna"
+            ],
+            "historia": "Kitty es una torbellina en todo su esplendor suele ser muy juguetona, muy inquieta y sobre todo suele ser muy cariñosa, al principio puede costar acostumbrarse a sus constantes juegos pero con el tiempo te darás cuenta que es una excelente compañera. La razón por la cual me tengo que alejar de Kitty es debido que mis padres se van a mudar conmigo y mi madre es alérgica a los gatos, espero encontrar una familia que la adopte y que le dé mucho amor.",
+            "usuario": "Fernanda Gutierrez",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png"
+        },
+        {
+            "id": "4",
+            "nombre": "Bombón",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "imagen": "https://i.ibb.co/rZWphyC/gato4.jpg",
+            "categoria": "gato",
+            "raza": "Gato americano",
+            "edad": "12 meses",
+            "direccion": "Calle 74-53b - 93 -  Bogota - Colombia",
+            "personalidad": [
+                "Perezosa",
+                "Tranquila",
+                "Cariñosa"
+            ],
+            "historia": "Le pusimos bombón debido a que desde que era muy pequeña le encantaba dormir en su camita así que cada vez que se acostaba parecía una bolita y eso dice mucho de ella, no es una gata muy activa ,suele dormir la mayor parte del día, y le encanta la compañía por las tardes. La razón por la cual tengo que dejar ir a bombón es porque trabajó jornadas muy extensas y no me está quedando tiempo para cuidarla así que busco alguien que le pueda dar todo lo que ella merece.",
+            "usuario": "Cecilia Zapata",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png"
+        },
+        {
+            "id": "5",
+            "nombre": "Anibal",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "imagen": "https://res.cloudinary.com/df90q7vvj/image/upload/v1642909569/AdopcionMascotas/retrato-vertical-gato-blanco-posando-aislado-escena-blanco_181624-48180_ije8gt.jpg",
+            "categoria": "gato",
+            "raza": "Angora turco,",
+            "edad": "15 meses",
+            "direccion": "Calle 76-51b - 91 -  Bogota - Colombia",
+            "personalidad": [
+                "Cazador",
+                "Serio",
+                "Trepador"
+            ],
+            "historia": "Anibal es el gato más asustadizo, el típico que sale disparado del sofá al ver que llegan invitados a casa. Se caracteriza por ser muy nervioso.",
+            "usuario": "Anderson Lopez",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": "6",
+            "nombre": "Africa",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "imagen": "https://res.cloudinary.com/df90q7vvj/image/upload/v1642909611/AdopcionMascotas/mirada-de-gato-6964_nnvmyd.jpg",
+            "categoria": "gato",
+            "raza": "Barcino",
+            "edad": "4 meses",
+            "direccion": "Calle 79-sur 5 - 92 -  Bogota - Colombia",
+            "personalidad": [
+                "Comelona",
+                "Cariñosa",
+                "Tierna"
+            ],
+            "historia": "Africa es cariñosa, duerme contigo y disfruta estando en tu espacio personal.",
+            "usuario": "Juana Mendez",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png"
+        },
+        {
+            "id": "7",
+            "nombre": "Huno",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "imagen": "https://res.cloudinary.com/df90q7vvj/image/upload/v1642909488/AdopcionMascotas/IMG_6715.jpg_hgo6f2.jpg",
+            "categoria": "gato",
+            "raza": "British Shorthair",
+            "edad": "17 meses",
+            "direccion": "Calle 73-59b - 91 -  Bogota - Colombia",
+            "personalidad": [
+                "curioso",
+                "Extrovertido",
+                "Jugueton"
+            ],
+            "historia": "Huno es el llamado gato curioso. Les encanta establecer relaciones con su alrededor. Juegan con sus juguetes y liberan mucha energía, ¡cuidado con su aburrimiento, porque pueden destrozar muebles! Además, les encanta estar en el jardín y en la calle, por lo que es crucial llevar controles de desparasitación para evitar que contagien a tu familia.",
+            "usuario": "Paolo Martinez",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": "8",
+            "nombre": "Lisa",
+            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "imagen": "https://res.cloudinary.com/df90q7vvj/image/upload/v1642909505/AdopcionMascotas/vertical-photo-of-small-kitten-with-tabby-fur-baby-cat-has-white-hin-picture-id872561072_a1utv4.jpg",
+            "categoria": "gato",
+            "raza": "Tabby ",
+            "edad": "2 meses",
+            "direccion": "Calle 74-53b - 93 -  Bogota - Colombia",
+            "personalidad": [
+                "Delicada",
+                "Confiada",
+                "Tierna"
+            ],
+            "historia": "Lisa tiene una disposición más delicada y pueden ser más nerviosa que otros. También puede ser una gata más tímida, pero con el tiempo pueden volverse tan confiada y tierna como cualquier felino.",
+            "usuario": "Alex Tavera",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        },
+        {
+            "id": "9",
+            "nombre": "Byron",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "imagen": "https://res.cloudinary.com/df90q7vvj/image/upload/v1643147706/Ecommerce%20reto4/pexels-photo-774731_cxp8wc.jpg",
+            "categoria": "gato",
+            "raza": "Chartreux",
+            "edad": "24 meses",
+            "direccion": "Carrera 90-51b - 67 -  Bogota - Colombia",
+            "personalidad": [
+                "Mimoso",
+                "Alegre",
+                "Extrovertido"
+            ],
+            "historia": "Byron le da una 'bienvenida verbal' cuando entra por la puerta, es extrovertido y se vuelve más ruidoso cuando sus necesidades no están siendo atendidas.",
+            "usuario": "Lizeth Cortez",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png"
+        },
+        {
+            "id": "10",
+            "nombre": "Neil",
+            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "imagen": "https://res.cloudinary.com/df90q7vvj/image/upload/v1642909530/AdopcionMascotas/50237602-gato-de-gato-atigrado-lindo-en-el-jard_C3_ADn-entre-las-hojas-caidas-enfoque-vertical-selectivo-con-espac_hedqdy.jpg",
+            "categoria": "gato",
+            "raza": "Romano",
+            "edad": "3 meses",
+            "direccion": "Carrera 20-21b - 89 -  Bogota - Colombia",
+            "personalidad": [
+                "Juguetón",
+                "Relajado",
+                "Sociable"
+            ],
+            "historia": "Es súper relajada, sociable y con la típica actitud de laissez-faire por la que se conoce a los gatos. Esta personalidad agradable suele ser el resultado de una socialización adecuada como un gatito.",
+            "usuario": "Jose Rojas",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png"
+        }
+    ]
+}

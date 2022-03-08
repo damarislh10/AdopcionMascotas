@@ -1,0 +1,12 @@
+#data-mascota {
+  justify-content: flex-start;
+  padding-bottom: 130px;
+}
+
+.card-1 {
+  margin-left: 5%;
+}
+.row {
+  --bs-gutter-x: 0rem;
+}
+

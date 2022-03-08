@@ -1,0 +1,55 @@
+.container-fluid {
+  width: 80%;
+  padding-bottom: 100px;
+}
+
+.container-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-img > img {
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  object-fit: cover;
+}
+
+.name-info {
+  text-align: center;
+}
+
+.guardar-cambios {
+  background-color: #0e172c;
+  border: none;
+  border-radius: 98px;
+  padding: 16px;
+}
+.guardar-cambios:hover {
+  background-color: #0e172c;
+}
+
+.input-form {
+  border: 1px solid #535353;
+  padding: 1% 1%;
+}
+
+.li-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.perfilUser {
+  padding: 0.5% 1.5%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .perfilUser {
+    padding: 2% 4%;
+  }
+  #menu-nav {
+    padding: 3% 0;
+  }
+}

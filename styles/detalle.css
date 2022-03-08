@@ -1,0 +1,192 @@
+.row-1 {
+  background-color: rgb(231, 223, 231);
+  width: 47%;
+  margin: auto;
+}
+
+.row > * {
+  padding-right: calc(var(--bs-gutter-x) * 0);
+  padding-left: calc(var(--bs-gutter-x) * 0);
+}
+
+.col-img {
+  position: relative;
+}
+.img-detail {
+  height: 370px;
+  border: 2px solid #8f8d92;
+  object-fit: cover;
+}
+
+.col-text {
+  background-color: #ffffff;
+  width: 100%;
+  top: 84%;
+  position: absolute;
+  text-align: left;
+  padding: 3% 4%;
+  border-radius: 16px 16px 0px 0px;
+}
+.nameIcon {
+  display: flex;
+  padding-left: 10%;
+}
+
+.img-genero {
+  width: 37px;
+  height: 35px;
+}
+
+.Favorito {
+  border: none;
+  padding: 0% 2%;
+  height: 38px;
+  border-radius: 150px;
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.1);
+  margin-left: 45.3%;
+  filter: drop-shadow(0px 4px 14px rgba(0, 0, 0, 0.25));
+}
+
+.razaEdad {
+  display: flex;
+  padding: 0 9%;
+}
+
+.img-raza {
+  width: 30px;
+}
+
+.imgEdad {
+  margin-left: 45%;
+  width: 30px;
+}
+
+.divDirection {
+  display: flex;
+}
+
+.imgMap {
+  height: 30px;
+}
+
+.divDirection > p {
+  font-size: 14px;
+}
+
+/* personalidad*/
+
+.ul-person {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+ul {
+  padding-left: 0rem;
+}
+
+.container-li-person {
+  text-align: center;
+  border: 2px solid #a786df;
+  padding: 10px;
+  border-radius: 8px;
+  width: 105px;
+  height: 105px;
+}
+
+.container-li-person > img {
+  width: 50px;
+}
+
+.p-text {
+  color: #535353;
+}
+
+/* contacto*/
+
+.container-contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container-contact > img {
+  width: 70px;
+}
+
+.container-public > h5 {
+  color: #535353;
+  font-size: 15px;
+}
+
+.container-public > h4 {
+  color: #0e172c;
+  font-size: 16px;
+}
+
+.btnContact {
+  background-color: #0e172c;
+  border: none;
+  border-radius: 98px;
+  padding: 12px;
+  width: 30%;
+}
+.btnContact:hover {
+  background-color: #0e172c;
+}
+.btnContact a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Media queries*/
+
+@media only screen and (max-width: 540px) {
+  .row-1 {
+    width: 100%;
+  }
+
+  .container {
+    padding-right: var(--bs-gutter-x, 0rem);
+    padding-left: var(--bs-gutter-x, 0rem);
+  }
+
+  .my-5 {
+    margin-top: 0rem !important;
+  }
+
+  .img-detail {
+    width: 100% !important;
+    height: 500px;
+    border: none;
+  }
+  .imgEdad {
+    margin-left: 20%;
+  }
+
+  .container-li-person {
+    width: 92px;
+    height: 97px;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .btnContact {
+    width: 40%;
+  }
+  .container-li-person {
+    margin-top: 4%;
+  }
+  .Favorito {
+    margin-left: 35%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 912px)  {
+
+  .row-1 {
+    width: 80%;
+  }
+}

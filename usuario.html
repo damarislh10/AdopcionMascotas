@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+    crossorigin="anonymous"
+  />
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="styles/user.css">
+    <title>Perfil</title>
+</head>
+<body>
+    
+<main>
+  <div class="container">
+    <div class="container-fluid mt-5">
+    <h2 class="title fw-bold mb-5">Perfil</h2>
+
+    <div class="container-img">
+        <img  src="https://images.pexels.com/photos/4881548/pexels-photo-4881548.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
+    </div>
+    <div class="name-info mt-3">
+        <h4 id="nombreUser"></h4>
+        <h5 class="mt-3 fw-bold">Editar cuenta</h5>
+    </div>
+
+
+    <form id="form" class="mb-5">
+
+        <div class="mb-3 mt-4">
+          <label for="name" class="form-label label-edit">Nombre</label>
+          <input type="text" name="name" class="form-control input-form" id="name">
+        </div>
+
+        <div class="mb-3">
+          <label for="lastName" class="form-label mt-2 label-edit">Apellido</label>
+          <input type="text" name="lastName" class="form-control input-form" id="lastName">
+        </div>
+        <div class="mb-3">
+            <label for="correo" class="form-label mt-2 label-edit">Correo</label>
+            <input type="email" name="correo" class="form-control input-form" id="correo">
+          </div>
+          <div class="mb-3">
+            <label  id="label-edit" for="id" class="form-label mt-2 label-edit">Id</label>
+            <input type="text" name="id" class="form-control input-form" id="id" readonly>
+          </div>
+
+        <button type="submit" class="btn btn-primary guardar-cambios w-100 mt-4">Guardar</button>
+      </form>
+    </div>
+</main>
+
+<div id="menu-nav">
+  <div class="li-menu">
+  <a href="inicioPets.html"><img class="imgFix" src="https://res.cloudinary.com/df90q7vvj/image/upload/v1642989122/AdopcionMascotas/home--v2_dzwmas.png" alt="home"></a>
+  <a href="mensajes.html"><img class="imgFix" src="https://res.cloudinary.com/df90q7vvj/image/upload/v1642989169/AdopcionMascotas/filled-chat_aqovzn.png" alt="iconMensaje"></a>
+  <a href="favoritos.html"><img class="imgFix" src="https://res.cloudinary.com/df90q7vvj/image/upload/v1642989220/AdopcionMascotas/hearts_wirwxo.png" alt="iconFavorite"></a>
+  <a class="tselect perfilUser" href="#"><img class="imgIcon" src="https://res.cloudinary.com/df90q7vvj/image/upload/v1643842426/Ecommerce%20reto4/perfilSelect_prti8o.png" alt="iconPerfil"><label  class="fs-5" id="label">Perfil</label></a>
+  </div>
+</div>
+</div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.24.0/axios.min.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+    <script src="scripts/user.js"></script>
+</body>
+</html>
