@@ -5,7 +5,7 @@
 Link de despliegue: https://frontend-sprint-1-damarislh10-seven.vercel.app/
 
 
-https://user-images.githubusercontent.com/89882027/151451736-ccc7d013-d706-4b35-a1d3-a08b2acfb799.png
+[images]https://user-images.githubusercontent.com/89882027/151451736-ccc7d013-d706-4b35-a1d3-a08b2acfb799.png
 
 https://user-images.githubusercontent.com/89882027/151451770-6a85d6c0-81fa-49dd-a57f-15d58fa82a06.png
 
