@@ -17,6 +17,7 @@ La página de adopción de mascotas es una red social para conectar a los usuari
 **********************
 
 ### Autora✒️
+
 * Damaris Hernandez - Desarrolladora frontend - [damarislh10](https://github.com/damarislh10)
 
 ![image](https://user-images.githubusercontent.com/89882027/151451770-6a85d6c0-81fa-49dd-a57f-15d58fa82a06.png)
